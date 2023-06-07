@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11300962&assignment_repo_type=AssignmentRepo)
 # API-Gestion-Flotte
 
 La congrégation des sœurs clarisses dispose d’une importante police flotte d’assurance. Dans cette flotte, il y a des voitures et des motos. Elles appartiennent soit à la congrégation, soit aux communautés religieuses, soit aux sœurs à titre individuel. L’assurance donne une cotation pour chaque engin. L’économat qui gère la flotte majore la cotation et facture le/la propriétaire.
